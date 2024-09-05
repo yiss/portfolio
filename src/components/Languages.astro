@@ -1,0 +1,11 @@
+---
+interface Props {
+	languages: string[];
+}
+
+const { languages } = Astro.props;
+---
+<div class="flex flex-col">
+    <span class="text-2xl font-bold text-stone-800 uppercase">Languages</span>
+    <span class="text-sm">{languages.join(", ")}</span>
+</div>

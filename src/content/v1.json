@@ -1,0 +1,153 @@
+{
+	"fullname": "Ilias Yahia",
+	"title": "Senior Software Engineer",
+	"summary": "Software engineer with over 7 years of experience in designing, building high peroformance full stack web appliations",
+	"skills": [
+		"Java",
+		"Python",
+		"Javascript",
+		"Typescript",
+		"React",
+		"NextJS",
+		"Angular",
+		"Spring Boot",
+		"FastAPI",
+		"NestJS",
+		"Express",
+		"Docker",
+		"Kubernetes",
+		"GraphQL",
+		"REST API",
+		"gRPC",
+		"tRPC",
+		"SQL",
+		"MongoDB",
+		"DynamoDB",
+		"AWS",
+		"Azure",
+		"GCP",
+		"CI/CD",
+		"Pulumi",
+		"CDK (IaC)"
+	],
+	"languages": ["English", "French", "Arabic"],
+	"workExperience": [
+		{
+			"title": "Tech Lead",
+			"company": "LaCentrale",
+			"from": "Novemeber 2023",
+			"to": "Current",
+			"sections": [
+				{
+					"achievements": [
+						"Led a team of four developers in executing and delivering software solutions to enhance user experience on the LaCentrale website.",
+						"Collaborated closely with the product manager to conceptualize and implement user experience improvements.",
+						"Provided technical leadership in developing new user preference features and integrating CRM services for LaCentrale users.",
+						"Spearheaded the creation of a new user management system, serving over 3 million users across the LaCentrale and Caradisiac platforms.",
+						"Facilitated the migration of legacy PHP stacks to modern Node.js and React frameworks, improving system performance and maintainability.",
+						"Contributed to the optimization of the organization's JavaScript build system and the implementation of a micro-frontend architecture, enhancing overall development efficiency."
+					]
+				}
+			]
+		},
+		{
+			"title": "Senior Software Engineer",
+			"company": "Riot",
+			"from": "June 2023",
+			"to": "November 2023",
+			"sections": [
+				{
+					"achievements": [
+						"Implemented an audit log system for a web application using AWS, Lambda functions and DynamoDB",
+						"Refactored the cloud infrastructure code using Pulumi"
+					]
+				}
+			]
+		},
+		{
+			"title": "Software Engineer",
+			"company": "Amazon",
+			"from": "Jun 2021",
+			"to": "Jun 2023",
+			"sections": [
+				{
+					"title": "Amazon DX",
+					"achievements": [
+						"Developed a web application for an at-home PCR COVID testing kit using React, TypeScript, GraphQL, AWS Lambda, and Amplify.",
+						"Built the application infrastructure with AWS CDK.",
+						"Evaluated and improved operational metrics as a member of the engineering excellence team."
+					]
+				},
+				{
+					"title": "Intech",
+					"achievements": [
+						"Developed, designed, and deployed a comprehensive automated accounting solution for the Turkish marketplace using Java, AWS CDK, S3, Amazon Kinesis, and SNS/SQS.",
+						"Enhanced the vendor central application to onboard vendors from the USA, China, Brazil, Mexico, and Thailand onto the Turkish marketplace's Vendor Central platform."
+					]
+				}
+			]
+		},
+		{
+			"title": "Software Engineer",
+			"company": "Flint (Consultant for Shlumberger)",
+			"from": "Febuary 2020",
+			"to": "June 2023",
+			"sections": [
+				{
+					"achievements": [
+						"Migrated legacy data ingestion from Java gRPC to a REST API using Python and  FastAPI.",
+						"Transitioned the web application from Google Cloud Platform to an on-premise cloud solution with Kubernetes and MinIO.",
+						"Deployed applications on both GCP and Azure using Kubernetes.",
+						"Conducted load testing using K6."
+					]
+				}
+			]
+		},
+		{
+			"title": "Software Engineer",
+			"company": "Credit Agricole Technology & Services",
+			"from": "Novemeber 2023",
+			"to": "Current",
+			"sections": [
+				{
+					"achievements": [
+						"Developed and designed REST API for banking middle-ware in Java",
+						"Wrote unit and integration tests"
+					]
+				}
+			]
+		},
+		{
+			"title": "Software Engineer",
+			"company": "Ausy (Consultant for Orange)",
+			"from": "October 2017",
+			"to": "October 2019",
+			"sections": [
+				{
+					"achievements": [
+						"Developed, tested, and maintained a web application using Java Spring Boot for the backend and Angular for the frontend.",
+						"Enhanced database architecture for improved third-party data ingestion.",
+						"Implemented and improved the Gitlab CI/CD pipeline.",
+						"Designed a backend REST API solution using Kotlin and Spring Boot to create and manage internal vouchers within the Orange ecosystem."
+					]
+				}
+			]
+		}
+	],
+	"education": [
+		{
+			"title": "Ecole des Mines d'Alès ",
+			"from": "August 2016",
+			"to": "August 2017",
+			"location": "Alès, France",
+			"description": "Double diploma program student in Design and Management of Information Systems"
+		},
+		{
+			"title": "Ecole Hassania des Travaux Public",
+			"from": "August 2014",
+			"to": "August 2016",
+			"location": "Casablanca, Morocco",
+			"description": "Bachelor degree in Computer Science"
+		}
+	]
+}
