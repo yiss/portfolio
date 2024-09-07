@@ -1,7 +1,7 @@
 {
 	"fullName": "Ilias Yahia",
 	"title": "Senior Software Engineer",
-	"summary": "Accomplished Senior Software Engineer with over 7 years of experience in architecting and developing high-performance full-stack web applications. Proven expertise in leading development teams, driving technological innovations, and implementing scalable solutions across different business domains. Adept at optimizing legacy systems, leveraging cloud technologies, and employing best practices in software development. Demonstrated ability to deliver robust solutions that enhance user experience, improve operational efficiency, and drive business growth.",
+	"summary": "Accomplished Senior Software Engineer with over 7 years of experience in conceptualizing and developing high-performance full-stack web applications. Proven expertise in leading development teams, driving technological innovations, and implementing scalable solutions across different business domains. Adept at optimizing legacy systems, leveraging cloud technologies, and employing best practices in software development. Demonstrated ability to deliver robust solutions that enhance user experience, improve operational efficiency, and drive business growth.",
 	"skills": [
 		"Java",
 		"Python",
@@ -10,6 +10,8 @@
 		"React",
 		"NextJS",
 		"Angular",
+		"TailwindCSS",
+		"Astro",
 		"Spring Boot",
 		"FastAPI",
 		"NestJS",
@@ -19,7 +21,6 @@
 		"GraphQL",
 		"REST API",
 		"gRPC",
-		"tRPC",
 		"SQL",
 		"MongoDB",
 		"DynamoDB",
@@ -37,11 +38,12 @@
 			"company": "LaCentrale",
 			"from": "November 2023",
 			"to": "Current",
+			"location": "Paris, France",
 			"sections": [
 				{
 					"achievements": [
-						"Orchestrated a team of four developers in delivering innovative software solutions, significantly enhancing user experience on the LaCentrale website.",
-						"Collaborated closely with product management to conceptualize and implement cutting-edge user experience improvements.",
+						"Led a team of four developers in delivering innovative software solutions, significantly enhancing user experience on the LaCentrale website.",
+						"Collaborated closely with product management to conceptualize and implement new and improved user experience.",
 						"Provided technical leadership in developing advanced user preference features and seamlessly integrating CRM services for LaCentrale users.",
 						"Spearheaded the creation of a robust user management system, catering to over 3 million users across the LaCentrale and Caradisiac platforms.",
 						"Led the strategic migration of legacy PHP stacks to modern Node.js and React frameworks, resulting in marked improvements in system performance and maintainability.",
@@ -55,6 +57,7 @@
 			"company": "Riot",
 			"from": "June 2023",
 			"to": "November 2023",
+			"location": "Paris, France",
 			"sections": [
 				{
 					"achievements": [
@@ -69,6 +72,7 @@
 			"company": "Amazon",
 			"from": "Jun 2021",
 			"to": "Jun 2023",
+			"location": "Paris, France",
 			"sections": [
 				{
 					"title": "Amazon DX",
@@ -92,6 +96,7 @@
 			"company": "Flint (Consultant for Schlumberger)",
 			"from": "February 2020",
 			"to": "June 2023",
+			"location": "Montpellier, France",
 			"sections": [
 				{
 					"achievements": [
@@ -108,6 +113,7 @@
 			"company": "Credit Agricole Technology & Services",
 			"from": "November 2023",
 			"to": "February 2023",
+			"location": "Montpellier, France",
 			"sections": [
 				{
 					"achievements": [
@@ -122,6 +128,7 @@
 			"company": "Ausy (Consultant for Orange)",
 			"from": "October 2017",
 			"to": "October 2019",
+			"location": "Montpellier, France",
 			"sections": [
 				{
 					"achievements": [
